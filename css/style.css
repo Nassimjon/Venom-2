@@ -161,14 +161,16 @@ img{
     margin-top: 33px;
 }
 .trailer .play{
+    display: inline-block;
     width: 45px;
     height: 45px;
     border-radius: 50%;
     border: none;
     cursor: pointer;
+    background: #fff;
 }
 .trailer .play-icon{
-    transform: translate(1px, 2px);
+    transform: translate(16px, 15px);
 }
 .poster-wrapper{
     display: flex;
